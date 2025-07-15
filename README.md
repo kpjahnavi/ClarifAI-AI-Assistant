@@ -74,7 +74,7 @@ clarifai-edu-assistant/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/chakri9133/ClarifAI-AI-Assistant.git
+git clone https://github.com/kpjahnavi/ClarifAI-AI-Assistant.git
 cd ClarifAI-AI-Assistant
 ```
 
