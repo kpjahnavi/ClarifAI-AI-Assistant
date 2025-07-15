@@ -118,7 +118,7 @@ Visit `http://localhost:5050` in your browser.
 
 ## 🔗 GitHub Repository
 
-Project Source Code: [ClarifAI GitHub](https://github.com/chakri9133/ClarifAI-AI-Assistant)
+Project Source Code: [ClarifAI GitHub](https://github.com/kpjahnavi/ClarifAI-AI-Assistant)
 
 ---
 
@@ -132,18 +132,8 @@ Watch the project demo video here:
 ## 📄 Project Report
 
 Download the complete project report (PDF):  
-📄 [ClarifAI Report – Google Drive](https://drive.google.com/file/d/1bBNCu4Y28i3FNy5WUYfYzVZJDF2HxsBe/view?usp=sharing)
+📄 [ClarifAI Report – Google Drive]()
 
 ---
 
-## 🤝 Contributors
 
-- [**Hasya**](https://github.com/Chavva-HasyaReddy) – Voice input, image captioning, OCR, visual rendering  
-- [**Chakri**](https://github.com/chakri9133) – Backend logic, LLM integration, emotion detection  
-- [**Hima Sree**](https://github.com/Himasree08) – Frontend UI, voice + emotion display, visual rendering  
-
----
-
-## 📄 License
-
-This project is part of the Intel Unnati Internship and is licensed for academic use.
